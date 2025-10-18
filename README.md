@@ -201,3 +201,4 @@ I'm always open to discussing new opportunities, creative projects, or just havi
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=50&section=footer&text=Thanks+for+visiting!&fontSize=20&fontAlignY=50" alt="Thanks" />
 </div>
+
